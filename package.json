@@ -1,0 +1,8 @@
+{
+  "name": "christmas-pi",
+  "version": "0.0.1",
+  "description": "control christmas lights with dash button",
+  "dependencies": {
+    "node-dash-button": "^0.0.1"
+  }
+}
